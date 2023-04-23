@@ -10,11 +10,7 @@ In addition to my native-level fluency in Portuguese and professional proficienc
 
 My technical skills include proficiency in programming languages such as Java (5+ years), JavaScript (2+ years), and C (1+ years). I am also well-versed in web technologies such as Java EE, JSF, EJB, JPA (Hibernate) (3+ years), RESTful APIs (3+ years), React (1+ years), Spring Boot (1+ years), and NodeJS (1+ years). In addition, I have expertise in web servers and databases such as Tomcat, WebLogic (2+ years), JBoss (1+ years), MySQL, Oracle (2+ years), and PostgreSQL (1+ years).
 
-I'm an active open source contributor, author of some open source projects like the [agile checklist ](https://github.com/thiagoferrax/agile-checklist), [my-office](https://github.com/thiagoferrax/my-office)...
-
-I also love to contribute on other various projects. 
-
-Feel free to check my GitHub activity.
+I'm an active open source contributor, author of some open source projects like the [agile checklist ](https://github.com/thiagoferrax/agile-checklist), [my-office](https://github.com/thiagoferrax/my-office)... I also love to contribute on other various projects. Feel free to check my GitHub activity.
 
 Thank you
 
