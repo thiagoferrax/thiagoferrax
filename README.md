@@ -2,7 +2,7 @@
 
 My name is Thiago Ferraz ;). 
 
-As a seasoned Senior Software Engineer with 15+ years of experience, I've gained extensive knowledge in software development and team management. Java (EJB, JPA, Spring, REST APIs) and JavaScript (React, NodeJS) are my bread and butter, and my education in Computer Science and Electrical Engineering sets a solid foundation for my work.
+As a seasoned Software Engineer with 15+ years of experience, I've gained extensive knowledge in software development and team management. Java (EJB, JPA, Spring, REST APIs) and JavaScript (React, NodeJS) are my bread and butter, and my education in Computer Science and Electrical Engineering sets a solid foundation for my work.
 
 I take pride in delivering high-quality software on time and on budget, including successful systems integration and web application development projects. I'm passionate about test-driven development, and I believe that clean code is key to successful projects. My knack for algorithms has helped me tackle complex problems with ease.
 
